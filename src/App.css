@@ -1,0 +1,32 @@
+@media screen and (min-width: 1500px){
+    .row1{
+        text-align: end;
+        margin-left: 7%;
+    }
+    .title{
+        padding-bottom: 80px;
+        padding-top: 51px;
+    }
+}
+
+@media screen and (max-width: 1499px){
+    .row1{
+        text-align: end;
+    }
+    .title{
+        padding-bottom: 50px;
+        padding-top: 30px;
+    }
+}
+.App{
+
+}
+.container-fluid {
+    background-color: #282c34;
+    height: 100vh;
+}
+.rightPart{
+    text-align: left ;
+    margin-left: 19px;
+}
+
