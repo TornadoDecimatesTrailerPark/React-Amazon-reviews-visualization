@@ -1,6 +1,6 @@
 amazon vips initial web app project using React js
 
-![image](https://github.com/TornadoDecimatesTrailerPark/React-Amazon-reviews-visualization/blob/master/public/localhost_3000.png)
+![image](https://github.com/TornadoDecimatesTrailerPark/React-Amazon-reviews-visualization/blob/master/public/preview.png)
 
 ## Commands
 
