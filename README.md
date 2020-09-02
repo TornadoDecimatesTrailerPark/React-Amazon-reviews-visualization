@@ -1,4 +1,4 @@
-amazon vips initial web app project using React js
+A user portrait display based on Amazon user reviews, using react using React js
 
 ![image](https://github.com/TornadoDecimatesTrailerPark/React-Amazon-reviews-visualization/blob/master/public/preview.png)
 
